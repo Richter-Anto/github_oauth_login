@@ -1,0 +1,10 @@
+.sign_in_btn{
+    background-color: #216e39 !important;
+    font-weight: 600 !important;
+}
+.border_signIn{
+    padding: 25px;
+    border: 1px solid hsla(210,18%,87%,1);
+    border-radius: 10px;
+    background-color: #f6f8fa;
+}
